@@ -1,5 +1,8 @@
 _repo: La-comedie-de-celui-qui-epousa-une-femme-muette_63794
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63794-h/images/cover.jpg
 creator:
   author:
     agent_name: France, Anatole
@@ -15,6 +18,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Anatole_France
     - https://en.wikipedia.org/wiki/Anatole_France
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63794#La-comedie-de-celui-qui-epousa-une-femme-muette
 gutenberg_issued: '2020-11-17'
 gutenberg_type: Text
 identifiers:
